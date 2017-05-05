@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediTec</string>
+    <string name="facebook_app_id">1561704220507619</string>
+    <string name="cancel_login">Se cancelo el inicio de sesion</string>
+    <string name="error_login">Error al iniciar sesion</string>
+    <string name="logout">logout</string>
+
+</resources>
